@@ -1,0 +1,153 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "password": "securepassword1"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "password": "securepassword2"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "email": "michael.johnson@example.com",
+      "password": "securepassword3"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Williams",
+      "email": "emily.williams@example.com",
+      "password": "securepassword4"
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Jones",
+      "email": "robert.jones@example.com",
+      "password": "securepassword5"
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Davis",
+      "email": "olivia.davis@example.com",
+      "password": "securepassword6"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Miller",
+      "email": "william.miller@example.com",
+      "password": "securepassword7"
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Garcia",
+      "email": "ava.garcia@example.com",
+      "password": "securepassword8"
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Rodriguez",
+      "email": "liam.rodriguez@example.com",
+      "password": "securepassword9"
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Martinez",
+      "email": "emma.martinez@example.com",
+      "password": "securepassword10"
+    },
+    {
+      "firstName": "Noah",
+      "lastName": "Smith",
+      "email": "noah.smith@example.com",
+      "password": "securepassword11"
+    },
+    {
+      "firstName": "Isabella",
+      "lastName": "Johnson",
+      "email": "isabella.johnson@example.com",
+      "password": "securepassword12"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Williams",
+      "email": "sophia.williams@example.com",
+      "password": "securepassword13"
+    },
+    {
+      "firstName": "Ethan",
+      "lastName": "Brown",
+      "email": "ethan.brown@example.com",
+      "password": "securepassword14"
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "Davis",
+      "email": "mia.davis@example.com",
+      "password": "securepassword15"
+    },
+    {
+      "firstName": "Logan",
+      "lastName": "Martinez",
+      "email": "logan.martinez@example.com",
+      "password": "securepassword16"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Johnson",
+      "email": "lucas.johnson@example.com",
+      "password": "securepassword17"
+    },
+    {
+      "firstName": "Jackson",
+      "lastName": "Garcia",
+      "email": "jackson.garcia@example.com",
+      "password": "securepassword18"
+    },
+    {
+      "firstName": "Avery",
+      "lastName": "Rodriguez",
+      "email": "avery.rodriguez@example.com",
+      "password": "securepassword19"
+    },
+    {
+      "firstName": "Evelyn",
+      "lastName": "Brown",
+      "email": "evelyn.brown@example.com",
+      "password": "securepassword20"
+    },
+    {
+      "firstName": "Abigail",
+      "lastName": "Davis",
+      "email": "abigail.davis@example.com",
+      "password": "securepassword21"
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Smith",
+      "email": "alexander.smith@example.com",
+      "password": "securepassword22"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Williams",
+      "email": "daniel.williams@example.com",
+      "password": "securepassword23"
+    },
+    {
+      "firstName": "Madison",
+      "lastName": "Johnson",
+      "email": "madison.johnson@example.com",
+      "password": "securepassword24"
+    },
+    {
+      "firstName": "Ella",
+      "lastName": "Davis",
+      "email": "ella.davis@example.com",
+      "password": "securepassword25"
+    }
+  ]
+  
